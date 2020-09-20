@@ -1,6 +1,6 @@
 # Egg:
 Egg is a self printing program, which was a very hard challenge.
-This is the rough outline of you could do it in a language that has built in strings and uses variables for assignment (pretty much every language I know).
+This is the pseudocode solution in a language that has built in strings and uses variables for assignment (pretty much every language I know).
 
 COMMAND 1:
     Store bytes representing COMMAND 2 and COMMAND 3 in variable "x" using a literal.
