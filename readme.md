@@ -1,5 +1,5 @@
 # Egg:
-Egg is a self printing program, which was a very hard challenge.
+Egg is a self printing program - this waw the hard part.
 This is the pseudocode solution in a language that has built in strings and uses variables for assignment (pretty much every language I know).
 
 COMMAND 1:
