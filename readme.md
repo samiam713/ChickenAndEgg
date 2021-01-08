@@ -16,3 +16,5 @@ Chicken is the program I used to make Egg.
 I guess it's an analogy for how the first chicken laid the genetically mutated egg.
 
 Maybe God started the universe with both chickens and eggs and simply placed fossils etc. on the planet in a way such that when we extrapolate backwards it seems like evolution occured. Maybe he started the universe this morning?
+
+Maybe not. I know I know nothing!
